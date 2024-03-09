@@ -3,5 +3,4 @@ Projetinho utilizando a API RestCountries para retornar dados de um país espec�
 
 Link para a documentação da API: https://restcountries.com
 
-Autor: Otávio Neto
-Contato: www.linkedin.com/in/otávio-neto12
+Autor: Otávio Neto www.linkedin.com/in/otávio-neto12
